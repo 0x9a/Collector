@@ -1,2 +1,2 @@
 # Collector
-Collector finde information from a target
+Collector find information from a target
