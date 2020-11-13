@@ -3,8 +3,13 @@
 This is a tool for:<br>
 *Data collection<br>
 *Vulnerability search<br>
-In content management systems (CMS) and designed for Windows and Linux systems<br>
-#More information coming soon...
+*Find CMS version (Wordpress - Drupal - vBulletin)
 
-#Backdoor Team
+In content management systems (CMS) and designed for Windows and Linux systems<br>
+*
+# Linux system soon... .
+
+# Backdoor Team
+* Unkn0wn (0x9a@tuta.io)
+* Contact us: btm@tutanota.de
 
